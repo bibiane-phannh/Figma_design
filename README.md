@@ -1,2 +1,2 @@
-# Figma_design
-These are my design drafts created using Figma up to this point.
+# Cinema design
+My cinema ticketing website is designed for young audiences. I focus on easy navigation, a visually soothing blue color palette, and a refreshing user experience. My simple interface streamlines ticket purchasing, making it quick and convenient. Enjoy the seamless and relaxing journey from selecting customer's movie to securing their seat. I aim to offer a delightful and stress-free way to enjoy customer favorite films.
