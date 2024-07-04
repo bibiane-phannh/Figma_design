@@ -1,2 +1,3 @@
-# Cinema design
-My cinema ticketing website is designed for young audiences. I focus on easy navigation, a visually soothing blue color palette, and a refreshing user experience. My simple interface streamlines ticket purchasing, making it quick and convenient. Enjoy the seamless and relaxing journey from selecting customer's movie to securing their seat. I aim to offer a delightful and stress-free way to enjoy customer favorite films.
+PetSpa-Design
+# Pet Spa Management System
+My website is designed to facilitate pet spa service bookings for customers. I employ a palette of soothing pastel tones to evoke comfort, relaxation, and familiarity. The customer-facing pages are intricately designed to engage visitors and encourage prolonged interaction. In contrast, the admin and staff interfaces are streamlined for functionality, prioritizing simplicity to efficiently manage operations.
